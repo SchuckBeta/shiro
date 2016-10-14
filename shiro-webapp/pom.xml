@@ -19,12 +19,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
-		<groupId>com.ttfc</groupId>
-		<artifactId>shiro-parent</artifactId>
-		<version>1.0.0-dev</version>
-	</parent>
-    <artifactId>shiro-webapp</artifactId>
+    <groupId>com.foo.example</groupId>
+    <artifactId>apache-shiro-tutorial-webapp</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>Apache Shiro Tutorial Webapp</name>
     <packaging>war</packaging>
